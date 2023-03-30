@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "name": "haya ahmed ",
+      "salary": "4500",
+      "age": "23",
+      "id": 1
+    },
+    {
+      "name": "khaled ahmed",
+      "salary": "5000",
+      "age": "27",
+      "id": 2
+    },
+    {
+      "name": "marwan",
+      "salary": "4500",
+      "age": "19",
+      "id": 3
+    }
+  ],
+  "patients": [
+    {
+      "name": "haya",
+      "gender": "female",
+      "visitingdate": "12/3/2023",
+      "age": "23",
+      "phonenumber": "01234569875",
+      "docname": "dr.mohmed",
+      "clinic": "dentist",
+      "id": 1
+    },
+    {
+      "name": "Tarek nouh",
+      "gender": "male",
+      "visitingdate": "21/2/2023",
+      "age": "34",
+      "phonenumber": "01234567855",
+      "docname": "dr.ebrahim",
+      "clinic": "Neurology",
+      "id": 2
+    }
+  ]
+}
